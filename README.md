@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/suzol_shrestha" target="blank"><img src="https://img.shields.io/twitter/follow/suzol_shrestha?logo=twitter&style=for-the-badge" alt="suzol_shrestha" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science **FrontEnd**
+- 🔭 I’m currently Studying Computer Science 
 
 - 🌱 I’m currently learning **Frameworks,DataStructure,Analysis of Algorithm, FrontEnd management**
 
